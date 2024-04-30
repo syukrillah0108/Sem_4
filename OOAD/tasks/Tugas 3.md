@@ -24,6 +24,16 @@
 
    - Sistem harus menyediakan formulir pengembalian (FR) yang harus diisi jika terdapat kerusakan pada kendaraan saat pengembalian.
    - Formulir pengembalian harus mencatat detail kerusakan dan biaya penggantian yang dibebankan kepada penyewa.
+7. **Denda Keterlambatan Pengembalian:**
+
+   * Sistem harus menghitung dan mengenakan denda kepada penyewa jika mereka mengembalikan kendaraan melebihi waktu sewa yang telah ditentukan.
+   * Besaran denda dan kebijakan keterlambatan harus jelas disampaikan kepada penyewa sebelum mereka melakukan penyewaan.
+   * Sistem harus secara otomatis menghitung jumlah denda yang diperlukan dan menambahkannya ke total biaya sewa jika keterlambatan terjadi.
+8. **Pengecekan Keadaan Kendaraan Tambahan:**
+
+   * Petugas harus dapat melakukan pemeriksaan tambahan terhadap keadaan kendaraan selain kerusakan yang mungkin terjadi.
+   * Pemeriksaan tambahan ini bisa termasuk mengukur tingkat bahan bakar, memeriksa kebersihan interior dan eksterior kendaraan, serta memastikan bahwa semua perlengkapan dan aksesori kendaraan ada dalam kondisi baik.
+   * Sistem harus memungkinkan petugas untuk mencatat hasil pemeriksaan tambahan ini dan menyertakannya dalam laporan pengembalian.
 
 **Non-Functional Requirements Specification (NFRS)**
 
