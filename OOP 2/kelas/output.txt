@@ -1,0 +1,3 @@
+
+bari satu.
+Ini adalah contoh cara menulis file teks di Java.
