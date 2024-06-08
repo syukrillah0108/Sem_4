@@ -1,10 +1,10 @@
 # POSYANTEKDESK IKHLAS RAMAKU
 
-POS PELAYANAN TEKNOLOGI DESA RAJA MANDALA KULON
+POS PELAYANAN TEKNOLOGI DESA RAJAMANDALA KULON
 
 # TEMPAT
 
-Kampung Ciburahol RT 01 RW 20 Desa Rajamandala Kulon KEcamatan Cipatat, Kabupaten Bandung Barat
+Kampung Ciburahol RT 01 RW 20 Desa Rajamandala Kulon Kecamatan Cipatat, Kabupaten Bandung Barat
 
 ## BINAAN
 
