@@ -59,11 +59,34 @@ Kotoran yang mengganggu lingkungan sekitar
 * `Membuat Kapcik`, Kotoran puyuh di makan cacing, kotoran cacing menjadi Pupuk Padat Organik dan Cacing menjadi subtitusi Pakan Puyuh
 * `Membuat Mesin Komposter,` Kotoran puyuh menjadi Kompos Pupuk Padata Organik
 
+## Drip Irrigation
+
+### Pencapain
+
+* Ring Drip berbahan Stainles
+* Pemberian Nutrisi
+
+### Masalah
+
+* 30 Pohon Mati dilanda kemarau
+
+### Solusi
+
+* Penggunaan Teknologi IoT (dalam tahap pengembangan)
+
 ## Ternak Kambing
 
 ## Kebun Durian
 
+### Pencapaian
+
+* 45 Pohon
+
 ## Kebun Anggur
+
+### Pencapaian
+
+* 45 Pohon
 
 ## Ternak Ikan Koi
 
