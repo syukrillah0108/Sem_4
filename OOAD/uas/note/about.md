@@ -102,3 +102,13 @@ Kotoran yang mengganggu lingkungan sekitar
 * `Digester`
 * `Kapcik`
 * `Komposter`
+
+# WEBSITE
+
+https://posyantekdes.vercel.app/
+
+# FOTO
+
+## Oven
+
+![Arduino IDE2](https://posyantekdes.vercel.app/Oven.JPG)
