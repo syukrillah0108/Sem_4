@@ -110,5 +110,22 @@ https://posyantekdes.vercel.app/
 # FOTO
 
 ## Oven
+![Oven](https://posyantekdes.vercel.app/Oven.JPG)
 
-![Arduino IDE2](https://posyantekdes.vercel.app/Oven.JPG)
+## Mesin Giling
+![Mesin Giling](https://posyantekdes.vercel.app/Mesin_Giling.JPG)
+
+## Alat Potong
+![Alat Potong](https://posyantekdes.vercel.app/Alat_Potong.jpg)
+
+## Alat Press
+![Alat Press](https://posyantekdes.vercel.app/Alat_Press.jpg)
+
+## Mesin Sentris
+![Mesin Sentris](https://posyantekdes.vercel.app/Mesin_Sentris.jpg)
+
+## Penggorengan (Deep Frying)
+![Penggorengan](https://posyantekdes.vercel.app/Penggorengan.jpg)
+
+## Emping Singkong Raja Engkong
+![Emping Singkong Raja Engkong](https://posyantekdes.vercel.app/Produk.png)
