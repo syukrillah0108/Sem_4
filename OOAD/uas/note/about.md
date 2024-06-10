@@ -1,6 +1,43 @@
-# POSYANTEKDESK IKHLAS RAMAKU
+# POSYANTEKDES IKHLAS RAMAKU
 
-POS PELAYANAN TEKNOLOGI DESA RAJAMANDALA KULON
+POS PELAYANAN TEKNOLOGI TEPAT GUNA DESA RAJAMANDALA KULON
+
+**IKHLAS**
+
+Inovatif Kreatif Higyenis Lincah Asri Sehat
+
+**RAMAKU**
+
+Raja Mandala Kulon
+
+**MOTTO**
+
+Inovasi tiada henti guna menghasilkan solusi
+
+**PRINSIP**
+
+Teknologi ATM (Amati Tiru Modifikasi)
+
+**DASAR HUKUM**
+
+1. Permendes, Trans dan DT (Peraturan Menteri Desa, Transmigrasi dan Daerah Tertinggal).
+
+No: 
+
+Tahun: 
+
+2. Perbub (Peraturan Bupati) Kabupaten Bandung Barat
+
+No:
+
+Tahun:
+
+3. Keputusan Kepala Desa Rajamandala Kulon Kecamatan Cipatat Kabupaten Bandung Barat
+
+No:
+
+Tahun:
+
 
 | Bidang                             | Nama                                   |
 | ---------------------------------- | -------------------------------------- |
