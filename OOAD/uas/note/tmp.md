@@ -48,11 +48,9 @@ Sistem untuk mengelola kerjasama dengan institusi binaan:
 - **Manajemen Kerjasama**: Informasi mengenai program binaan dengan Telkom University, DPMD, dan DISPERNAKAN.
 - **Dokumentasi dan Laporan**: Catatan rapat, laporan kemajuan, dan hasil evaluasi program kerjasama.
 
-### 8. **Sistem Keuangan dan Koperasi**
+### 8. **Sistem Keuangan**
 
 Untuk mendukung Koperasi Mitras Usaha Desa:
 
-- **Pembukuan Koperasi**: Modul untuk mencatat pemasukan, pengeluaran, dan pembagian keuntungan.
-- **Pengelolaan Anggota Koperasi**: Data anggota, iuran, dan pinjaman koperasi.
-
-Dengan implementasi sistem berbasis web ini, diharapkan Posyantekdes Ikhlas Ramaku dapat meningkatkan efisiensi dan efektivitas dalam menjalankan program-programnya serta memberikan manfaat yang lebih besar kepada masyarakat desa.
+- **Pembukuan Keuangan**: Modul untuk mencatat pemasukan, pengeluaran, dan pembagian keuntungan.
+- **Pengelolaan Pengurus dan Anggota Posyantek**: Data anggota, iuran, dan pinjaman koperasi.

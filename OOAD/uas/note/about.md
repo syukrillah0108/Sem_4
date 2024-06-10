@@ -2,18 +2,18 @@
 
 POS PELAYANAN TEKNOLOGI DESA RAJAMANDALA KULON
 
-| Bidang                             | Nama                                         |
-| ---------------------------------- | -------------------------------------------- |
-| Pembina                            | Ir. Rosyad Ma'Ali El Hadi, M.Pd., M.T.       |
-| Ketua Umum                         | Tedi Gandara, S.Pd.I, M.Pd.<br />Ina Mariana |
-| Ketua Koperasi Mitras Usaha Desa   | Dedi Entang                                  |
-| Sekretaris                         | Sobbarudin                                   |
-| Kerja Huamas & Teknologi Informasi | Ibang Setiawan                               |
-| Kerja Perikanan                    | Dedi Entang                                  |
-| Sarana dan Prasarana               | Nandang Hidayat                              |
-| Kerja Pertanian dan Pupuk Organik  | Suryaman                                     |
-| Kerja Peternakan                   | Ridan Sopyan                                 |
-|                                    |                                              |
+| Bidang                             | Nama                                   |
+| ---------------------------------- | -------------------------------------- |
+| Pembina                            | Ir. Rosyad Ma'Ali El Hadi, M.Pd., M.T. |
+| Ketua Umum                         | <br />Ina Mariana                      |
+| Ketua Koperasi Mitras Usaha Desa   | Dedi Entang (Mitra Posyantek)          |
+| Sekretaris                         | Sobbarudin                             |
+| Kerja Huamas & Teknologi Informasi | Ibang Setiawan                         |
+| Kerja Perikanan                    | Dedi Entang                            |
+| Sarana dan Prasarana               | Nandang Hidayat                        |
+| Kerja Pertanian dan Pupuk Organik  | Suryaman                               |
+| Kerja Peternakan                   | Ridan Sopyan                           |
+|                                    |                                        |
 
 # TEMPAT
 
@@ -22,12 +22,14 @@ Kampung Ciburahol RT 01 RW 20 Desa Rajamandala Kulon Kecamatan Cipatat, Kabupate
 ## BINAAN
 
 * Telkom University
+* Universitas Teknologi Bandung
 * DPMD (Dinas Pemberdayaan Masyarakat dan Desa)
-* DISPERNAKAN (Dinas Perikanan dan Peretnakan)
+* DISPERNAKAN (Dinas Perikanan dan Perternakan)
+* Dinas Pertanian dan Ketahanan Pangan Kabupaten Bandung Barat
 
-# CABANG
+# BIDANG KEGIATAN
 
-Cabang ini merupakan cabang dengan pengelolaan secara Mandiri
+Bidang Kegiatan Posyantekdes Ikhlas Ramaku, meliputi:
 
 1. Pertanian
 2. Perkebunan
@@ -36,6 +38,8 @@ Cabang ini merupakan cabang dengan pengelolaan secara Mandiri
 5. Mekanikal
 6. Perpustakaan
 7. Pengelolaan Sampah
+8. Pakan Unggas dan Ikan
+9. Makanan
 
 # PROGRAM YANG SUDAH TERLAKSANA
 
@@ -51,13 +55,15 @@ Sudah mencapai 5000 ekor puyuh
 
 ### Masalah
 
-Kotoran yang mengganggu lingkungan sekitar
+* Kotoran yang mengganggu lingkungan sekitar
+* Harga Pakan yang terus meningkat
 
 ### Solusi
 
-* `Membuat Mesin Digester`, dengan implementasi bahas Kompor Gas
-* `Membuat Kapcik`, Kotoran puyuh di makan cacing, kotoran cacing menjadi Pupuk Padat Organik dan Cacing menjadi subtitusi Pakan Puyuh
-* `Membuat Mesin Komposter,` Kotoran puyuh menjadi Kompos Pupuk Padata Organik
+* `Membuat Mesin Digester`, Unktuk menghasilkan gas metan sebagai energi alternatif dan pupuk cair Organik
+* `Membuat Komposter`, untuk memanfa'atkan kotoran Puyuh menjadi pupuk padat organik
+* `Membuat Kascing`, Kotoran puyuh di makan cacing, kotoran cacing menjadi Pupuk Padat Organik dan Cacing menjadi subtitusi Pakan Puyuh dengan protein yang tinggi.
+* `Membuat Mesin Produksi Pakan`
 
 ## Drip Irrigation
 
@@ -76,32 +82,39 @@ Kotoran yang mengganggu lingkungan sekitar
 
 ## Ternak Kambing
 
+Hibah 7 Ekor Kambing dari Dinas Perikanan dan Peternakan Kabupaten Bandung Barat, yang di kelola oleh Posyantekdes sampai saat ini sudah mencapai 20 ekor. sedangkan yang ada di masyarakat terdapat 5 titik sudah mencapai 15 ekor
+
 ## Kebun Durian
 
-### Pencapaian
+### Hibah
 
-* 45 Pohon
+* 45 Pohon, dari Dinas Pertanian dan Ketahanan Pangan Kabupaten Bandung Barat
 
 ## Kebun Anggur
 
-### Pencapaian
+### Pembelian
 
-* 45 Pohon
+* 20 Pohon
 
-## Ternak Ikan Koi
+## Ternak Ikan
 
-10 Kolam ikan Produksi
+* 10 Kolam ikan Produksi
+* 1 Kolam Besar
 
 ## Makanan Ringan
 
 * Keripik Kentang
 * Emping Singkong
+* Bumbu Rendang
+* Bakso
+* Makanan bernuansa Puyuh (Ekado, Martabak, Puyuh Crispy, Burger Puyuh, Teh Rempah Telor Puyuh)
+* Keripik Singkong
+* Gula Semut
 
 ## Produksi Pupuk
 
-* `Digester`
-* `Kapcik`
-* `Komposter`
+* Pupuk Cair Organik
+* Pupuk Padat Organik
 
 # WEBSITE
 
@@ -110,22 +123,29 @@ https://posyantekdes.vercel.app/
 # FOTO
 
 ## Oven
+
 ![Oven](https://posyantekdes.vercel.app/Oven.JPG)
 
 ## Mesin Giling
+
 ![Mesin Giling](https://posyantekdes.vercel.app/Mesin_Giling.JPG)
 
 ## Alat Potong
+
 ![Alat Potong](https://posyantekdes.vercel.app/Alat_Potong.jpg)
 
 ## Alat Press
+
 ![Alat Press](https://posyantekdes.vercel.app/Alat_Press.jpg)
 
 ## Mesin Sentris
+
 ![Mesin Sentris](https://posyantekdes.vercel.app/Mesin_Sentris.jpg)
 
 ## Penggorengan (Deep Frying)
+
 ![Penggorengan](https://posyantekdes.vercel.app/Penggorengan.jpg)
 
 ## Emping Singkong Raja Engkong
+
 ![Emping Singkong Raja Engkong](https://posyantekdes.vercel.app/Produk.png)
