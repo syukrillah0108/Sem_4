@@ -22,9 +22,9 @@ Teknologi ATM (Amati Tiru Modifikasi)
 
 1. Permendes, Trans dan DT (Peraturan Menteri Desa, Transmigrasi dan Daerah Tertinggal).
 
-No: 
+No:
 
-Tahun: 
+Tahun:
 
 2. Perbub (Peraturan Bupati) Kabupaten Bandung Barat
 
@@ -38,19 +38,18 @@ No:
 
 Tahun:
 
-
-| Bidang                             | Nama                                   |
-| ---------------------------------- | -------------------------------------- |
-| Pembina                            | Ir. Rosyad Ma'Ali El Hadi, M.Pd., M.T. |
-| Ketua Umum                         | <br />Ina Mariana                      |
-| Ketua Koperasi Mitras Usaha Desa   | Dedi Entang (Mitra Posyantek)          |
-| Sekretaris                         | Sobbarudin                             |
-| Kerja Huamas & Teknologi Informasi | Ibang Setiawan                         |
-| Kerja Perikanan                    | Dedi Entang                            |
-| Sarana dan Prasarana               | Nandang Hidayat                        |
-| Kerja Pertanian dan Pupuk Organik  | Suryaman                               |
-| Kerja Peternakan                   | Ridan Sopyan                           |
-|                                    |                                        |
+| Bidang                            | Nama                                   |
+| --------------------------------- | -------------------------------------- |
+| Pembina                           | Ir. Rosyad Ma'Ali El Hadi, M.Pd., M.T. |
+| Ketua Umum                        | <br />Ina Mariana                      |
+| Ketua Koperasi Mitra Usaha Desa  | Dedi Entang (Mitra Posyantek)          |
+| Sekretaris                        | Sobbarudin                             |
+| Kerja Humas & Teknologi Informasi | Ibang Setiawan                         |
+| Kerja Perikanan                   | Dedi Entang                            |
+| Sarana dan Prasarana              | Nandang Hidayat                        |
+| Kerja Pertanian dan Pupuk Organik | Suryaman                               |
+| Kerja Peternakan                  | Ridan Sopyan                           |
+|                                   |                                        |
 
 # TEMPAT
 
