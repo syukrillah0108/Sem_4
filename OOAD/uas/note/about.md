@@ -18,26 +18,6 @@ Inovasi tiada henti guna menghasilkan solusi
 
 Teknologi ATM (Amati Tiru Modifikasi)
 
-**DASAR HUKUM**
-
-1. Permendes, Trans dan DT (Peraturan Menteri Desa, Transmigrasi dan Daerah Tertinggal).
-
-No:
-
-Tahun:
-
-2. Perbub (Peraturan Bupati) Kabupaten Bandung Barat
-
-No:
-
-Tahun:
-
-3. Keputusan Kepala Desa Rajamandala Kulon Kecamatan Cipatat Kabupaten Bandung Barat
-
-No:
-
-Tahun:
-
 | Bidang                            | Nama                                   |
 | --------------------------------- | -------------------------------------- |
 | Pembina                           | Ir. Rosyad Ma'Ali El Hadi, M.Pd., M.T. |
