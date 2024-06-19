@@ -1,0 +1,121 @@
+sequenceDiagram
+    actor user as Pengguna Layanan
+    actor admin as Pengelola Posyantek
+    actor mentor as Pembina
+    actor institution as Universitas / Lembaga Binaan
+    actor citizen as Warga
+
+    actor chairperson as Ketua Umum
+    actor cooperativeHead as Ketua Koperasi Mitra Usaha Desa
+    actor secretary as Sekretaris
+    actor PRandIT as Humas & Teknologi Informasi
+    actor fishery as Kerja Perikanan
+    actor infrastructure as Sarana dan Prasarana
+    actor agriculture as Kerja Pertanian dan Pupuk Organik
+    actor livestock as Kerja Peternakan
+
+    box "POSYANTEKDES IKHLAS RAMAKU"
+        participant UC1 as Menggunakan Mesin Pengupas Kentang
+        participant UC2 as Menggunakan Mesin Pengiris Kentang
+        participant UC3 as Produksi Emping Singkong
+        participant UC4 as Beternak Puyuh
+        participant UC5 as Mengelola Drip Irrigation
+        participant UC6 as Beternak Kambing
+        participant UC7 as Mengelola Kebun Durian
+        participant UC8 as Mengelola Kebun Anggur
+        participant UC9 as Beternak Ikan
+        participant UC10 as Mengolah Makanan Ringan
+        participant UC11 as Produksi Pupuk
+        participant UC12 as Pengelolaan Sampah
+        participant UC13 as Memantau dan Melaporkan Kegiatan
+        participant UC14 as Membina dan Memberi Pelatihan
+        participant UC15 as Menyediakan Sumber Daya dan Hibah
+        participant UC16 as Mencatat Data Pengguna
+        participant UC17 as Mengelola Fasilitas
+        participant UC18 as Melakukan Riset dan Pengembangan
+        participant UC19 as Meminjam Alat
+        participant UC20 as Mengembalikan Alat
+        participant UC21 as Melakukan Observasi atau Kerjasama
+        participant UC22 as Optimalisasi Produksi Emping Singkong
+        participant UC23 as Mengolah Produk Olahan Burung Puyuh
+        participant UC24 as Mengelola Mesin Digester
+        participant UC25 as Mengelola Komposter
+        participant UC26 as Mengelola Kascing
+        participant UC27 as Mengelola Drip Irrigation dengan IoT
+        participant UC28 as Mengelola Hibah Ternak Kambing
+        participant UC29 as Mengelola Kebun Durian Hibah
+        participant UC30 as Mengelola Kebun Anggur Pembelian
+    end
+
+    user ->> UC1: Menggunakan Mesin Pengupas Kentang
+    user ->> UC2: Menggunakan Mesin Pengiris Kentang
+    user ->> UC3: Produksi Emping Singkong
+    user ->> UC4: Beternak Puyuh
+    user ->> UC5: Mengelola Drip Irrigation
+    user ->> UC6: Beternak Kambing
+    user ->> UC7: Mengelola Kebun Durian
+    user ->> UC8: Mengelola Kebun Anggur
+    user ->> UC9: Beternak Ikan
+    user ->> UC10: Mengolah Makanan Ringan
+    user ->> UC11: Produksi Pupuk
+    user ->> UC12: Pengelolaan Sampah
+
+    admin ->> UC13: Memantau dan Melaporkan Kegiatan
+    admin ->> UC16: Mencatat Data Pengguna
+    admin ->> UC17: Mengelola Fasilitas
+
+    citizen ->> UC19: Meminjam Alat
+    citizen ->> UC20: Mengembalikan Alat
+    citizen ->> UC21: Melakukan Observasi atau Kerjasama
+    citizen ->> UC1: Menggunakan Mesin Pengupas Kentang
+    citizen ->> UC2: Menggunakan Mesin Pengiris Kentang
+    citizen ->> UC3: Produksi Emping Singkong
+    citizen ->> UC4: Beternak Puyuh
+    citizen ->> UC5: Mengelola Drip Irrigation
+    citizen ->> UC6: Beternak Kambing
+    citizen ->> UC7: Mengelola Kebun Durian
+    citizen ->> UC8: Mengelola Kebun Anggur
+    citizen ->> UC9: Beternak Ikan
+    citizen ->> UC10: Mengolah Makanan Ringan
+    citizen ->> UC11: Produksi Pupuk
+    citizen ->> UC12: Pengelolaan Sampah
+
+    mentor ->> UC13: Memantau dan Melaporkan Kegiatan
+    mentor ->> UC14: Membina dan Memberi Pelatihan
+    institution ->> UC15: Menyediakan Sumber Daya dan Hibah
+    institution ->> UC14: Membina dan Memberi Pelatihan
+
+    chairperson ->> UC13: Memantau dan Melaporkan Kegiatan
+    chairperson ->> UC14: Membina dan Memberi Pelatihan
+    chairperson ->> UC16: Mencatat Data Pengguna
+
+    cooperativeHead ->> UC13: Memantau dan Melaporkan Kegiatan
+    cooperativeHead ->> UC15: Menyediakan Sumber Daya dan Hibah
+    cooperativeHead ->> UC3: Produksi Emping Singkong
+    cooperativeHead ->> UC4: Beternak Puyuh
+
+    secretary ->> UC13: Memantau dan Melaporkan Kegiatan
+    secretary ->> UC16: Mencatat Data Pengguna
+    secretary ->> UC17: Mengelola Fasilitas
+
+    PRandIT ->> UC13: Memantau dan Melaporkan Kegiatan
+    PRandIT ->> UC17: Mengelola Fasilitas
+    PRandIT ->> UC21: Melakukan Observasi atau Kerjasama
+
+    fishery ->> UC13: Memantau dan Melaporkan Kegiatan
+    fishery ->> UC9: Beternak Ikan
+
+    infrastructure ->> UC17: Mengelola Fasilitas
+    infrastructure ->> UC1: Menggunakan Mesin Pengupas Kentang
+    infrastructure ->> UC2: Menggunakan Mesin Pengiris Kentang
+    infrastructure ->> UC7: Mengelola Kebun Durian
+    infrastructure ->> UC8: Mengelola Kebun Anggur
+
+    agriculture ->> UC11: Produksi Pupuk
+    agriculture ->> UC22: Optimalisasi Produksi Emping Singkong
+    agriculture ->> UC25: Mengelola Komposter
+    agriculture ->> UC27: Mengelola Drip Irrigation dengan IoT
+
+    livestock ->> UC4: Beternak Puyuh
+    livestock ->> UC6: Beternak Kambing
+    livestock ->> UC28: Mengelola Hibah Ternak Kambing

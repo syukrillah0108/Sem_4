@@ -33,7 +33,7 @@ Teknologi ATM (Amati Tiru Modifikasi)
 
 # TEMPAT
 
-Kampung Ciburahol RT 01 RW 20 Desa Rajamandala Kulon Kecamatan Cipatat, Kabupaten Bandung Barat
+Kampung Ciburahol RT 01 RW 20 Desa Rajamandala Kulon Kecamatan Cipatat, Kabupaten Bandung Barat.
 
 ## BINAAN
 
@@ -59,7 +59,72 @@ Bidang Kegiatan Posyantekdes Ikhlas Ramaku, meliputi:
 
 # PROGRAM YANG SUDAH TERLAKSANA
 
+## Mesin Pengupas Kentang
+
+### Pencapaian
+
+* Kapasitas : 8 Kg
+* Listrik : 1.5 pk / 1.132 watt
+* Mammpu mengupas 8 Kg kentang dalam 37 detik, yang mana jika dilakukan secara manual membutuhkan waktu mencapai 1.5 Jam
+
+## Mesin Pengiris Kentang
+
+### Pencapaian
+
+* Pengirisan memiliki 7 varian bentuk
+* Listrik : 1.5 pk / 1.132 watt
+* 1 kentang / 3 detik
+
+## Optimalisasi Produksi Emping Singkong
+
+### Kondisi Awal
+
+* Mampu Produksi 1.400 Kg / Tahun
+
+### Masalah
+
+* Kebutuhan Pasar 2.000 Kg / Tahun
+* Produksi masih manual, tradisional dan sederhana
+* Terjadinya penumpukan yang di sebabkan waktu tunggu yang cukup lama
+* Pemasaran masih di daerah sekitar
+
+### Solusi
+
+* Mesin penggiling
+* Alat potong
+* Alat pres
+* Oven
+* Penggorengan
+* mesin sentris
+* Pasar digital
+
+### Manfa'at
+
+* Produksi bica mencapai 10x lipat
+* Optimaslisasi tenaga
+* Minimalisir human error
+
 ## Ternak Puyuh
+
+### **Alasan Memilih Beternak Burung Puyuh**
+
+* Sedikitnya peternak burung puyuh.
+* Mitos kolesterol tinggi pada telur puyuh ternyata tidak benar.
+* Pertumbuhan burung puyuh yang cepat.
+
+### **Produksi Telur dan Penetasan**
+
+* Burung puyuh betina mulai bertelur pada usia 45 hari, menghasilkan satu telur per hari.
+* Telur disortir untuk konsumsi dan indukan.
+
+### **Proses Perkawinan Burung Puyuh**
+
+* Rasio perkawinan: tiga betina satu jantan untuk menjaga produktivitas.
+
+### **Produk Olahan Burung Puyuh**
+
+* Daging puyuh dan telur puyuh diolah menjadi berbagai makanan seperti ekadol, telur asin, dan teh rempah telur puyuh.
+* Produk olahan lainnya termasuk puyuh crispy dan abon puyuh.
 
 ### Pencapaian
 
@@ -80,6 +145,7 @@ Sudah mencapai 5000 ekor puyuh
 * `Membuat Komposter`, untuk memanfa'atkan kotoran Puyuh menjadi pupuk padat organik
 * `Membuat Kascing`, Kotoran puyuh di makan cacing, kotoran cacing menjadi Pupuk Padat Organik dan Cacing menjadi subtitusi Pakan Puyuh dengan protein yang tinggi.
 * `Membuat Mesin Produksi Pakan`
+* Proses pengolahan pupuk organik berlangsung selama 3 bulan.
 
 ## Drip Irrigation
 
@@ -165,3 +231,11 @@ https://posyantekdes.vercel.app/
 ## Emping Singkong Raja Engkong
 
 ![Emping Singkong Raja Engkong](https://posyantekdes.vercel.app/Produk.png)
+
+## Mesin Pengupas Kentang
+
+![1718429113709](image/about/1718429113709.png)
+
+## Mesin Pengiris Kentang
+
+![1718441138676](image/about/1718441138676.png)

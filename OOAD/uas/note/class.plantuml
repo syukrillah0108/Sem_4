@@ -1,0 +1,162 @@
+@startuml
+left to right direction
+skinparam packageStyle rect
+
+actor "Pengguna Layanan" as user
+actor "Pengelola Posyantek" as admin
+actor "Pembina" as mentor
+actor "Universitas / Lembaga Binaan" as institution
+
+actor "Ketua Umum" as chairperson
+actor "Ketua Koperasi Mitra Usaha Desa" as cooperativeHead
+actor "Sekretaris" as secretary
+actor "Humas & Teknologi Informasi" as PRandIT
+actor "Kerja Perikanan" as fishery
+actor "Sarana dan Prasarana" as infrastructure
+actor "Kerja Pertanian dan Pupuk Organik" as agriculture
+actor "Kerja Peternakan" as livestock
+
+package "POSYANTEKDES IKHLAS RAMAKU" {
+    
+    usecase "Menggunakan Mesin Pengupas Kentang" as UC1
+    usecase "Menggunakan Mesin Pengiris Kentang" as UC2
+    usecase "Produksi Emping Singkong" as UC3
+    usecase "Beternak Puyuh" as UC4
+    usecase "Mengelola Drip Irrigation" as UC5
+    usecase "Beternak Kambing" as UC6
+    usecase "Mengelola Kebun Durian" as UC7
+    usecase "Mengelola Kebun Anggur" as UC8
+    usecase "Beternak Ikan" as UC9
+    usecase "Mengolah Makanan Ringan" as UC10
+    usecase "Produksi Pupuk" as UC11
+    usecase "Pengelolaan Sampah" as UC12
+
+    usecase "Memantau dan Melaporkan Kegiatan" as UC13
+    usecase "Membina dan Memberi Pelatihan" as UC14
+    usecase "Menyediakan Sumber Daya dan Hibah" as UC15
+
+    usecase "Mencatat Data Pengguna" as UC16
+    usecase "Mengelola Fasilitas" as UC17
+    usecase "Melakukan Riset dan Pengembangan" as UC18
+
+    usecase "Meminjam Alat" as UC19
+    usecase "Mengembalikan Alat" as UC20
+    usecase "Melakukan Observasi atau Kerjasama" as UC21
+
+    usecase "Optimalisasi Produksi Emping Singkong" as UC22
+    usecase "Mengolah Produk Olahan Burung Puyuh" as UC23
+    usecase "Mengelola Mesin Digester" as UC24
+    usecase "Mengelola Komposter" as UC25
+    usecase "Mengelola Kascing" as UC26
+    usecase "Mengelola Drip Irrigation dengan IoT" as UC27
+    usecase "Mengelola Hibah Ternak Kambing" as UC28
+    usecase "Mengelola Kebun Durian Hibah" as UC29
+    usecase "Mengelola Kebun Anggur Pembelian" as UC30
+}
+
+user --> UC1
+user --> UC2
+user --> UC3
+user --> UC4
+user --> UC5
+user --> UC6
+user --> UC7
+user --> UC8
+user --> UC9
+user --> UC10
+user --> UC11
+user --> UC12
+user --> UC19
+user --> UC20
+user --> UC21
+
+admin --> UC13
+admin --> UC16
+admin --> UC17
+
+UC1 .> UC16 : <<include>>
+UC2 .> UC16 : <<include>>
+UC3 .> UC16 : <<include>>
+UC4 .> UC16 : <<include>>
+UC5 .> UC16 : <<include>>
+UC6 .> UC16 : <<include>>
+UC7 .> UC16 : <<include>>
+UC8 .> UC16 : <<include>>
+UC9 .> UC16 : <<include>>
+UC10 .> UC16 : <<include>>
+UC11 .> UC16 : <<include>>
+UC12 .> UC16 : <<include>>
+
+UC3 .> UC18 : <<include>>
+UC4 .> UC18 : <<include>>
+UC5 .> UC18 : <<include>>
+UC11 .> UC18 : <<include>>
+UC12 .> UC18 : <<include>>
+
+UC13 <|-- UC1 : <<extend>>
+UC13 <|-- UC2 : <<extend>>
+UC13 <|-- UC3 : <<extend>>
+UC13 <|-- UC4 : <<extend>>
+UC13 <|-- UC5 : <<extend>>
+UC13 <|-- UC6 : <<extend>>
+UC13 <|-- UC7 : <<extend>>
+UC13 <|-- UC8 : <<extend>>
+UC13 <|-- UC9 : <<extend>>
+UC13 <|-- UC10 : <<extend>>
+UC13 <|-- UC11 : <<extend>>
+UC13 <|-- UC12 : <<extend>>
+
+UC19 .> UC16 : <<include>>
+UC20 .> UC16 : <<include>>
+UC21 .> UC16 : <<include>>
+
+mentor --> UC13
+mentor --> UC14
+institution --> UC15
+institution --> UC14
+
+chairperson --> UC13
+chairperson --> UC14
+chairperson --> UC16
+
+cooperativeHead --> UC13
+cooperativeHead --> UC15
+cooperativeHead --> UC3
+cooperativeHead --> UC4
+
+secretary --> UC13
+secretary --> UC16
+secretary --> UC17
+
+PRandIT --> UC13
+PRandIT --> UC17
+PRandIT --> UC21
+
+fishery --> UC13
+fishery --> UC9
+
+infrastructure --> UC17
+infrastructure --> UC1
+infrastructure --> UC2
+infrastructure --> UC7
+infrastructure --> UC8
+
+agriculture --> UC11
+agriculture --> UC22
+agriculture --> UC25
+agriculture --> UC27
+
+livestock --> UC4
+livestock --> UC6
+livestock --> UC28
+
+UC3 <|-- UC22 : <<extend>>
+UC4 <|-- UC23 : <<extend>>
+UC4 <|-- UC24 : <<extend>>
+UC4 <|-- UC25 : <<extend>>
+UC4 <|-- UC26 : <<extend>>
+UC5 <|-- UC27 : <<extend>>
+UC6 <|-- UC28 : <<extend>>
+UC7 <|-- UC29 : <<extend>>
+UC8 <|-- UC30 : <<extend>>
+@enduml

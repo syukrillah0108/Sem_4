@@ -1,6 +1,6 @@
 ### 1. **Dashboard Administrasi**
 
-Buat sebuah dashboard untuk administrasi yang memungkinkan pengelola desa mengelola berbagai data dan informasi. Fitur yang dapat disertakan:
+Dashboard untuk administrasi yang memungkinkan pengelola desa mengelola berbagai data dan informasi. Fitur yang dapat disertakan:
 
 - **Manajemen Program dan Proyek**: Tampilan daftar program dan proyek yang sedang berlangsung beserta statusnya (misalnya, ternak puyuh, drip irrigation, ternak kambing, dll).
 - **Manajemen Anggota**: Daftar anggota yang terlibat dalam setiap bidang, lengkap dengan informasi kontak dan peran mereka.
@@ -8,7 +8,7 @@ Buat sebuah dashboard untuk administrasi yang memungkinkan pengelola desa mengel
 
 ### 2. **Modul Informasi dan Edukasi**
 
-Sediakan modul informasi yang dapat diakses oleh masyarakat desa:
+Menyediiakan modul informasi yang dapat diakses oleh masyarakat desa:
 
 - **Panduan Pertanian dan Peternakan**: Artikel dan video tutorial tentang cara bertani, beternak, serta tips dan trik terkait.
 - **Berita dan Pengumuman**: Bagian untuk mengumumkan berita terbaru, pencapaian, dan informasi penting lainnya.

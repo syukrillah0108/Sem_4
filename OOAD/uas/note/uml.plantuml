@@ -1,0 +1,20 @@
+@startuml
+left to right direction
+skinparam packageStyle rect
+
+actor "Warga" as user
+actor "Pengelola Posyantek" as admin
+
+package "POSYANTEKDES IKHLAS RAMAKU"{
+    usecase "Peminjama" as UC1
+    usecase "Isi Formulir" as formulir
+    usecase "Informasi" as info
+}
+
+user --> UC1
+admin --> UC1
+
+UC1 .> formulir : <<include>>
+UC1 <. info : <<extend>>
+
+@enduml
